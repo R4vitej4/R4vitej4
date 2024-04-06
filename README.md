@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🧑‍💻, I'm Raviteja Pegada</h1>
-<h3 align="center">Passionate Developer From India</h3>
+<h1 align="center">Hi, I'm Raviteja Pegada</h1>
+<h3 align="center">Developer From India</h3>
 
 - 📫 How to reach me **pegadaraviteja225@gmail.com**
 

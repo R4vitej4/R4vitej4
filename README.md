@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raviteja Pegada</h1>
 <h3 align="center">
-Backend Engineer | Java | Node.js | Fintech Systems
+Backend Engineer | Java | Fintech & Payment Systems
 </h3>
 
 <p align="center">
@@ -15,23 +15,22 @@ Backend Engineer | Java | Node.js | Fintech Systems
 ---
 
 ## 👨‍💻 About Me
-- Backend Engineer building **scalable fintech systems**
-- Experienced with **multiple payment gateway integrations**
-- Strong in **Java & Node.js** backend services
-- Hands-on with **Redis, AWS, Docker & Kubernetes**
-- Focused on **high-availability, low-latency systems**
-- Comfortable with **security, idempotency & reconciliation flows**
+- Backend Engineer with **3+ years of experience** building **Java-based fintech systems**
+- Strong experience in **payment gateways, transaction processing, ledgers, and payouts**
+- Focused on **scalable, reliable, and concurrency-safe backend services**
+- Hands-on with **Spring Boot, Redis, Kafka, AWS, Docker, and Kubernetes**
+- Comfortable working on **high-throughput, low-latency production systems**
 
 ---
 
 ## 💳 Fintech & Payments Experience
-- Integrated **multiple payment gateways** (UPI, Cards, Net Banking)
-- Designed **idempotent APIs** to prevent duplicate transactions
-- Built **webhook consumers** with signature verification
-- Implemented **transaction lifecycle management**
-- Handled **async callbacks, retries & failure reconciliation**
-- Worked with **settlements, refunds & payout workflows**
-- Designed **audit-safe logs & transaction tracking**
+- Integrated **multiple payment gateways** (cards, wallets, UPI-like flows)
+- Built **idempotent APIs** to prevent duplicate debits and ensure financial correctness
+- Implemented **webhook consumers** with signature verification and retry handling
+- Designed **transaction lifecycle management** (authorize, capture, refund, payout)
+- Worked on **reconciliation workflows** to match gateway, bank, and internal ledger data
+- Handled **async callbacks, retries, and failure recovery**
+- Built **audit-safe logs and transaction tracking** for compliance and debugging
 
 ---
 
@@ -40,46 +39,45 @@ Backend Engineer | Java | Node.js | Fintech Systems
 ### Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
 </p>
+
+- Java (Core Java, Collections, Concurrency)
 
 ---
 
 ### Backend & APIs
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48"/>
 </p>
 
-- RESTful API design
-- Auth, RBAC & secure API access
-- Rate limiting & request validation
-- Async jobs & background workers
+- Spring Boot, RESTful APIs
+- Request validation & error handling
+- Authentication & authorization
+- Idempotency & retry mechanisms
+- Background jobs & async processing
 
 ---
 
 ### Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="40"/>
 </p>
 
 - Transactional data modeling
 - Indexing & performance tuning
-- Data consistency & isolation
+- Data consistency and integrity
 
 ---
 
-### Caching, Queues & Messaging
+### Caching & Messaging
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48"/>
 </p>
 
 - Redis caching & TTL strategies
-- Job queues & workers
-- Distributed locks & rate limiting
+- Distributed locks
+- Kafka-based event-driven communication
 
 ---
 
@@ -90,19 +88,20 @@ Backend Engineer | Java | Node.js | Fintech Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
 </p>
 
-- AWS (EC2, S3, RDS, IAM, VPC)
+- AWS (EC2, S3, RDS, IAM, CloudWatch)
 - Containerized services & orchestration
-- Environment-based deployments
+- CI/CD pipelines and environment-based deployments
 
 ---
 
 ### System Design & Engineering Practices
 - Microservices architecture
-- Event-driven systems
-- Consistent hashing
+- Distributed systems
+- Event-driven design
+- Concurrency & thread safety
 - Fault tolerance & retries
-- Observability & logging
-  
+- Observability, logging & monitoring
+
 ---
 
 ## 📫 Contact

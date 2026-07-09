@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raviteja Pegada</h1>
+
 <h3 align="center">
-Backend Engineer | Java | Fintech & Payment Systems
+Backend Engineer • Distributed Systems • Fintech • AI Engineering
 </h3>
 
 <p align="center">
@@ -8,102 +9,136 @@ Backend Engineer | Java | Fintech & Payment Systems
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pegadaraviteja225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- Backend Engineer with **3+ years of experience** building **Java-based fintech systems**
-- Strong experience in **payment gateways, transaction processing, ledgers, and payouts**
-- Focused on **scalable, reliable, and concurrency-safe backend services**
-- Hands-on with **Spring Boot, Redis, Kafka, AWS, Docker, and Kubernetes**
-- Comfortable working on **high-throughput, low-latency production systems**
+
+Backend engineer passionate about building scalable, reliable, and high-performance software.
+
+My interests span backend engineering, distributed systems, cloud infrastructure, payment platforms, and AI-powered applications. I enjoy designing production-ready systems with a strong focus on performance, reliability, and developer experience.
 
 ---
 
-## 💳 Fintech & Payments Experience
-- Integrated **multiple payment gateways** (cards, wallets, UPI-like flows)
-- Built **idempotent APIs** to prevent duplicate debits and ensure financial correctness
-- Implemented **webhook consumers** with signature verification and retry handling
-- Designed **transaction lifecycle management** (authorize, capture, refund, payout)
-- Worked on **reconciliation workflows** to match gateway, bank, and internal ledger data
-- Handled **async callbacks, retries, and failure recovery**
-- Built **audit-safe logs and transaction tracking** for compliance and debugging
+## 🚀 Areas of Expertise
+
+* Backend API Development
+* Payment Systems & Financial Workflows
+* Distributed Systems & Microservices
+* Event-Driven Architectures
+* High-Performance Backend Services
+* REST APIs & Asynchronous Processing
+* System Design & Scalability
+* Cloud-Native Applications
+* AI-Enabled Developer Workflows
 
 ---
 
-## 🛠️ Backend Tech Stack
+## 💻 Languages
 
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
+* Java
+* JavaScript / Node.js
+* Python
+* SQL
+
+---
+
+## ⚙️ Backend Technologies
+
+* Spring Boot
+* Express.js
+* REST APIs
+* Authentication & Authorization
+* Background Processing
+* Scheduling
+* Webhooks
+* Idempotency
+* Retry Mechanisms
+
+---
+
+## 🗄️ Databases & Storage
+
+* MySQL
+* PostgreSQL
+* Redis
+* Elasticsearch
+
+Experience with data modeling, indexing, caching strategies, transactional consistency, and performance optimization.
+
+---
+
+## 📨 Messaging & Distributed Systems
+
+* Kafka
+* Redis
+* BullMQ
+* Event-Driven Architecture
+* Distributed Locking
+* Queue-Based Processing
+
+---
+
+## ☁️ Cloud & DevOps
+
+* AWS (EC2, S3, RDS, IAM, CloudWatch)
+* Docker
+* Kubernetes
+* GitHub Actions
+* CI/CD Pipelines
+* Linux
+
+---
+
+## 🤖 AI & Modern Engineering
+
+* Python for automation and AI tooling
+* LLM application development
+* Prompt Engineering
+* AI-assisted software development
+* Retrieval-Augmented Generation (RAG)
+* AI workflow automation
+* Developer productivity with AI tools
+
+---
+
+## 🏗️ Engineering Interests
+
+* System Design
+* Backend Architecture
+* Fintech Platforms
+* Payment Infrastructure
+* Scalability
+* Fault Tolerance
+* Observability
+* Performance Optimization
+* Distributed Caching
+* Concurrency
+* Event Streaming
+
+---
+
+## 📈 Currently Exploring
+
+* Large-Scale Distributed Systems
+* AI Agents & Agentic Workflows
+* Advanced Cloud Architectures
+* Backend Performance Engineering
+* Production-Grade AI Applications
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [pegadaraviteja225@gmail.com](mailto:pegadaraviteja225@gmail.com)
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/raviteja-pegada/">Raviteja Pegada</a>
+
+---
+
+<p align="center">
+<i>Building reliable backend systems, exploring AI, and continuously improving engineering craftsmanship.</i>
 </p>
-
-- Java (Core Java, Collections, Concurrency)
-
----
-
-### Backend & APIs
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48"/>
-</p>
-
-- Spring Boot, RESTful APIs
-- Request validation & error handling
-- Authentication & authorization
-- Idempotency & retry mechanisms
-- Background jobs & async processing
-
----
-
-### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="40"/>
-</p>
-
-- Transactional data modeling
-- Indexing & performance tuning
-- Data consistency and integrity
-
----
-
-### Caching & Messaging
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48"/>
-</p>
-
-- Redis caching & TTL strategies
-- Distributed locks
-- Kafka-based event-driven communication
-
----
-
-### Cloud & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
-</p>
-
-- AWS (EC2, S3, RDS, IAM, CloudWatch)
-- Containerized services & orchestration
-- CI/CD pipelines and environment-based deployments
-
----
-
-### System Design & Engineering Practices
-- Microservices architecture
-- Distributed systems
-- Event-driven design
-- Concurrency & thread safety
-- Fault tolerance & retries
-- Observability, logging & monitoring
-
----
-
-## 📫 Contact
-- 📧 **Email:** pegadaraviteja225@gmail.com  
-- 💼 **LinkedIn:** [Raviteja Pegada](https://www.linkedin.com/in/raviteja-pegada/)

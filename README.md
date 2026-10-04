@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Raviteja Pegada</h1>
 
 <h3 align="center">
-Backend Engineer • Distributed Systems • Fintech • AI Engineering
+Java Backend Engineer • Payments • Distributed Systems • Cloud
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raviteja-pegada/" target="_blank">
+  <a href="https://raviteja.pegada.in">
+    <img src="https://img.shields.io/badge/Portfolio-pegada.in-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raviteja-pegada/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pegadaraviteja225@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -17,128 +20,260 @@ Backend Engineer • Distributed Systems • Fintech • AI Engineering
 
 ## 👨‍💻 About Me
 
-Backend engineer passionate about building scalable, reliable, and high-performance software.
+I'm a **Java-first Backend Engineer** with 4+ years of experience building backend services and payment workflows.
 
-My interests span backend engineering, distributed systems, cloud infrastructure, payment platforms, and AI-powered applications. I enjoy designing production-ready systems with a strong focus on performance, reliability, and developer experience.
+My work focuses on systems where **correctness, reliability, performance, and traceability** matter — particularly payment processing, transaction workflows, payouts, reconciliation, APIs, and cloud-backed services.
 
----
+I enjoy working from **class-level design to distributed system architecture**, understanding failure modes, and building services that remain understandable in production.
 
-## 🚀 Areas of Expertise
+Currently focused on growing deeper in:
 
-* Backend API Development
-* Payment Systems & Financial Workflows
-* Distributed Systems & Microservices
-* Event-Driven Architectures
-* High-Performance Backend Services
-* REST APIs & Asynchronous Processing
-* System Design & Scalability
-* Cloud-Native Applications
-* AI-Enabled Developer Workflows
-
----
-
-## 💻 Languages
-
-* Java
-* JavaScript / Node.js
-* Python
-* SQL
+- Java & Spring Boot
+- Distributed Systems
+- Payment Infrastructure
+- System Design
+- AWS & Cloud Architecture
+- Event-Driven Systems
+- Observability & Production Engineering
+- AI-assisted software engineering
 
 ---
 
-## ⚙️ Backend Technologies
+## 💳 Payments & FinTech
 
-* Spring Boot
-* Express.js
-* REST APIs
-* Authentication & Authorization
-* Background Processing
-* Scheduling
-* Webhooks
-* Idempotency
-* Retry Mechanisms
+My strongest domain experience is **payment infrastructure and transaction processing**.
 
----
+Areas I've worked with include:
 
-## 🗄️ Databases & Storage
+- Payment authorization and capture
+- Refund workflows
+- Transaction state management
+- Payment Service Provider integrations
+- Webhooks and callbacks
+- Payment status reconciliation
+- Ledger-based payout workflows
+- Merchant balances and virtual accounts
+- Idempotency
+- Retry handling
+- Concurrency
+- Failure recovery
+- API contract management
 
-* MySQL
-* PostgreSQL
-* Redis
-* Elasticsearch
+I've worked with PSP integrations including:
 
-Experience with data modeling, indexing, caching strategies, transactional consistency, and performance optimization.
-
----
-
-## 📨 Messaging & Distributed Systems
-
-* Kafka
-* Redis
-* BullMQ
-* Event-Driven Architecture
-* Distributed Locking
-* Queue-Based Processing
+- Paymob
+- Tabby
+- Apple Pay
+- STC Pay
 
 ---
 
-## ☁️ Cloud & DevOps
+## ⚡ Engineering Impact
 
-* AWS (EC2, S3, RDS, IAM, CloudWatch)
-* Docker
-* Kubernetes
-* GitHub Actions
-* CI/CD Pipelines
-* Linux
+Some production improvements I've worked on:
 
----
-
-## 🤖 AI & Modern Engineering
-
-* Python for automation and AI tooling
-* LLM application development
-* Prompt Engineering
-* AI-assisted software development
-* Retrieval-Augmented Generation (RAG)
-* AI workflow automation
-* Developer productivity with AI tools
+- **35% improvement in peak payment throughput** through safer processing, Redis-backed queues, retries and concurrency-aware workflows.
+- **40% reduction in average API latency** through database indexing and query optimization.
+- Improved reliability of payment workflows through **idempotency, retries, state-aware processing and failure-path handling**.
+- Supported production payment systems using **CloudWatch, logs, transaction states and deployment context** for troubleshooting and observability.
 
 ---
 
-## 🏗️ Engineering Interests
+## 🛠️ Core Technology Stack
 
-* System Design
-* Backend Architecture
-* Fintech Platforms
-* Payment Infrastructure
-* Scalability
-* Fault Tolerance
-* Observability
-* Performance Optimization
-* Distributed Caching
-* Concurrency
-* Event Streaming
+### Java Backend
 
----
-
-## 📈 Currently Exploring
-
-* Large-Scale Distributed Systems
-* AI Agents & Agentic Workflows
-* Advanced Cloud Architectures
-* Backend Performance Engineering
-* Production-Grade AI Applications
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [pegadaraviteja225@gmail.com](mailto:pegadaraviteja225@gmail.com)
-
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/raviteja-pegada/">Raviteja Pegada</a>
-
----
-
-<p align="center">
-<i>Building reliable backend systems, exploring AI, and continuously improving engineering craftsmanship.</i>
+<p>
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 </p>
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- Maven
+- REST APIs
+- Webhooks
+- Authentication & Authorization
+- API Design
+- Exception Handling
+- Transaction Management
+
+---
+
+### Distributed Systems & Messaging
+
+- Microservices
+- Event-driven architecture
+- Kafka
+- Redis
+- BullMQ
+- Asynchronous processing
+- Queue-based processing
+- Distributed locking
+- Idempotency
+- Retry strategies
+- Concurrency
+- Transaction state machines
+- Fault-tolerant workflows
+
+---
+
+### Databases & Data
+
+- MySQL
+- PostgreSQL
+- Redis
+- SQL
+- Database indexing
+- Query optimization
+- Data modeling
+- Transactions
+- Caching
+- Consistency
+
+---
+
+### Cloud & DevOps
+
+- AWS
+  - EC2
+  - S3
+  - RDS
+  - IAM
+  - CloudWatch
+  - CloudTrail
+  - VPC
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Linux
+- Production debugging
+- Observability
+
+---
+
+### Node.js & Frontend
+
+Although Java is my primary backend stack, I also have experience building and integrating systems using:
+
+- Node.js
+- Express.js
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- REST APIs
+- Webhooks
+- BullMQ
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+I actively use modern AI development tools to improve engineering productivity and explore AI-powered applications.
+
+### Tools
+
+- Claude
+- Cursor
+- OpenAI / Codex
+- AI coding agents
+- LLM-assisted debugging
+- AI-assisted code review
+- Prompt engineering
+- Developer workflow automation
+
+### Exploring
+
+- AI agents
+- Agentic workflows
+- RAG systems
+- LLM applications
+- AI-powered developer tools
+- Workflow automation
+
+I treat AI as an engineering tool rather than a replacement for understanding the underlying system.
+
+---
+
+## 🏗️ System Design & Architecture
+
+I'm actively developing deeper expertise in designing scalable backend systems.
+
+Areas I study and apply:
+
+- Requirements analysis
+- API design
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- SOLID principles
+- Design patterns
+- Microservices
+- Event-driven architecture
+- Caching
+- Load balancing
+- Database scaling
+- Message queues
+- Distributed systems
+- Fault tolerance
+- Observability
+- Rate limiting
+- Idempotency
+- Consistency
+- Concurrency
+
+---
+
+## 📚 Currently Learning
+
+I'm currently focused on becoming stronger as a **Java Backend + Distributed Systems Engineer**.
+
+### Java
+
+- Advanced Java
+- Concurrency
+- JVM fundamentals
+- Collections
+- Multithreading
+- Performance
+
+### Spring
+
+- Spring Boot
+- Spring Security
+- Spring Data
+- Transactions
+- Application architecture
+
+### Distributed Systems
+
+- Kafka
+- Event-driven systems
+- Distributed transactions
+- Consistency
+- Reliability patterns
+- Scalability
+- Observability
+
+### Cloud
+
+- AWS
+- Cloud architecture
+- Kubernetes
+- CI/CD
+- Production engineering
+
+### System Design
+
+- LLD
+- HLD
+- Design patterns
+- Real-world architecture case studies

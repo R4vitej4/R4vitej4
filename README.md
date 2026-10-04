@@ -5,6 +5,9 @@ Java Backend Engineer • Payments • Distributed Systems • Cloud
 </h3>
 
 <p align="center">
+   <a href="https://raviteja.pegada.in">
+    <img src="https://img.shields.io/badge/Portfolio-pegada.in-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/raviteja-pegada/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
